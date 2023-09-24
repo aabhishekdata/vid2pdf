@@ -9,6 +9,8 @@ Before running the script, ensure you have the necessary libraries installed:
 ```bash
 pip install pytube3 moviepy fpdf pillow scikit-image
 
+```
+
 # Usage
 
 Replace the url variable in the script with the URL of the YouTube video you want to convert to PDF notes.
